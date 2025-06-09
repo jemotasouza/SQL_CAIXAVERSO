@@ -1,0 +1,4 @@
+--- INSERIR DADOS NA TABELA LINKS 
+    INSERT INTO STUDY.LINKS
+    VALUES 
+    (1, 'www.caixa.gov.br', 'CAIXA', 'SITE DO BANCO', '2025-06-09');
